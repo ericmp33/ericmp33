@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ### I speak...🔤
 
-Catalan, English, Spanish
+Catalan & English
