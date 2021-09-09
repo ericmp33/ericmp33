@@ -2,9 +2,9 @@
 
 --------------------------------------------------------------------
 
--  **Studying :** Full-Stack Web Development🖥️👨‍💻
--  **Fun fact :** Don't use light themes!🤢☢️
--  **Contact :** contactwEric@gmail.com📧📮
+-  **Studying :** Web Dev👨‍💻
+-  **Fun fact :** Don't use light themes!🤢
+-  **Contact :** contactwEric@gmail.com📮
 
 --------------------------------------------------------------------
 
