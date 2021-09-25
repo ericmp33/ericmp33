@@ -23,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <img alt="ericmp33 stats" src="https://github-readme-stats.vercel.app/api?username=ericmp33&show_icons=true&theme=nord"/>
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmp33&layout=compact&theme=nord"/>
+<img alt="ericmp33 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmp33&layout=compact&theme=nord"/>
 
 --------------------------------------------------------------------
 
