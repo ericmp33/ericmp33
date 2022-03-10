@@ -23,26 +23,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <img alt="ericmp33 stats" src="https://github-readme-stats.vercel.app/api?username=ericmp33&show_icons=true&theme=nord"/>
-<img alt="ericmp33 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmp33&layout=compact&theme=nord"/>
+    <img alt="ericmp33 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmp33&layout=compact&theme=nord"/>
 
 --------------------------------------------------------------------
 
 ### I speak...🔤
 
-Catalan & English
-
-<!-- <div
-    style="
-        width: 490px;
-        height: 190px;
-        overflow: hidden;
-        border-radius: 10px;
-        border: 1.2px solid #7490ac;
-    "
->
-    <img
-        style="margin: -1px 0px 0px -1px"
-        alt="ericmp33 stats"
-        src="https://github-readme-stats.vercel.app/api?username=ericmp33&show_icons=true&theme=nord"
-    />
-</div> -->
+Catalan, Spanish & English
