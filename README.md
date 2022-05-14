@@ -90,15 +90,7 @@
   />
 </a>
 
-<a href="#">
-  <img
-    align="left"
-    alt="NPM"
-    title="NPM"
-    width="36px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-  />
-</a>
+<br><br>
 
 <a href="#">
   <img
