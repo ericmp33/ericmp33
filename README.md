@@ -1,39 +1,202 @@
 ## Hello World! <img alt="hello gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
 
---------------------------------------------------------------------
+---
 
--  **Studying :** Web Dev👨‍💻
--  **Fun fact :** Don't use light themes!🤢
--  **Contact :** contactwEric@gmail.com📮
+-  **Studying:** Web Dev👨‍💻
+-  **Fun fact:** Don't use light themes!🤢
+-  **Contact:** contactwEric@gmail.com📮
 
---------------------------------------------------------------------
+---
 
 ### Tech Stack🛠
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=EA891C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<a href="#">
+  <img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="36px"
+    src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
+  />
+</a>
 
-<img alt="ericmp33 stats" src="https://github-readme-stats.vercel.app/api?username=ericmp33&show_icons=true&theme=nord"/>
-<img alt="ericmp33 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmp33&layout=compact&theme=nord"/>
+<a href="#">
+  <img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+</a>
 
---------------------------------------------------------------------
+<a href="#">
+  <img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+  />
+</a>
 
-### I speak...🔤
+<a href="#">
+  <img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="36px"
+    src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"
+  />
+</a>
 
-Catalan, Spanish & English
+<a href="#">
+  <img
+    align="left"
+    alt="Vue3"
+    title="Vue3"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+  />
+</a>
 
---------------------------------------------------------------------
+<a href="#">
+  <img
+    align="left"
+    alt="InertiaJS"
+    title="InertiaJS"
+    width="36px"
+    src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/master/assets/logo.svg?sanitize=true"
+  />
+</a>
 
-### Other accounts🌐
+<a href="#">
+  <img
+    align="left"
+    alt="GIT"
+    title="GIT"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  />
+</a>
 
--  <a href="https://stackoverflow.com/users/14569750/ericmp">**StackOverflow**</a>
--  <a href="https://gitlab.com/ericmp33">**GitLab**</a>  
+<a href="#">
+  <img
+    align="left"
+    alt="NodeJS"
+    title="NodeJS"
+    width="36px"
+    src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="NPM"
+    title="NPM"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="JSON"
+    title="JSON"
+    width="36px"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="TailwindCSS"
+    title="TailwindCSS"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="MariaDB"
+    title="MariaDB"
+    width="36px"
+    src="https://cdn.worldvectorlogo.com/logos/mariadb.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA"
+    width="36px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
+    alt="PHPStorm"
+    title="PHPStorm"
+    width="36px"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg"
+  />
+</a>
+
+<br><br>
+
+---
+
+### A perosnal project🚀
+
+[![La Brisca CLI](https://github-readme-stats.vercel.app/api/pin/?username=ericmp33&repo=la-brisca-cli&theme=nord)](https://github.com/ericmp33/la-brisca-cli)
+
+---
+
+### I speak...🌎
+
+Catalan, English & Spanish
+
+---
+
+### Others🌐
+
+- <a href="https://stackoverflow.com/users/14569750/ericmp">**StackOverflow**</a>
+- <a href="https://gitlab.com/ericmp33">**GitLab**</a>
