@@ -63,48 +63,6 @@
 <a href="#">
   <img
     align="left"
-    alt="InertiaJS"
-    title="InertiaJS"
-    width="36px"
-    src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/master/assets/logo.svg?sanitize=true"
-  />
-</a>
-
-<a href="#">
-  <img
-    align="left"
-    alt="GIT"
-    title="GIT"
-    width="36px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  />
-</a>
-
-<a href="#">
-  <img
-    align="left"
-    alt="NodeJS"
-    title="NodeJS"
-    width="36px"
-    src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png"
-  />
-</a>
-
-<br><br>
-
-<a href="#">
-  <img
-    align="left"
-    alt="JSON"
-    title="JSON"
-    width="36px"
-    src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"
-  />
-</a>
-
-<a href="#">
-  <img
-    align="left"
     alt="HTML"
     title="HTML"
     width="36px"
@@ -135,10 +93,10 @@
 <a href="#">
   <img
     align="left"
-    alt="MariaDB"
-    title="MariaDB"
+    alt="GIT"
+    title="GIT"
     width="36px"
-    src="https://cdn.worldvectorlogo.com/logos/mariadb.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   />
 </a>
 
