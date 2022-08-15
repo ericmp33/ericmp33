@@ -134,7 +134,7 @@
 
 ---
 
-### A perosnal project🚀
+### A personal project🚀
 
 [![La Brisca CLI](https://github-readme-stats.vercel.app/api/pin/?username=ericmp33&repo=la-brisca-cli&theme=nord)](https://github.com/ericmp33/la-brisca-cli)
 
