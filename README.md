@@ -63,20 +63,10 @@
 <a href="#">
   <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="MariaDB"
+    title="MariaDB"
     width="36px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-</a>
-
-<a href="#">
-  <img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="36px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
   />
 </a>
 
@@ -113,20 +103,10 @@
 <a href="#">
   <img
     align="left"
-    alt="IntelliJ IDEA"
-    title="IntelliJ IDEA"
+    alt="JetBrains"
+    title="JetBrains"
     width="36px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016"
-  />
-</a>
-
-<a href="#">
-  <img
-    align="left"
-    alt="PHPStorm"
-    title="PHPStorm"
-    width="36px"
-    src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg"
+    src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"
   />
 </a>
 
