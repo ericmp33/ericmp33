@@ -2,7 +2,7 @@
 
 ---
 
--  **Studying:** Web Dev👨‍💻
+-  **Working as:** Junior Web Dev👨‍💻
 -  **Fun fact:** Don't use light themes!🤢
 -  **Contact:** contactwEric@gmail.com📮
 
