@@ -137,13 +137,3 @@ Catalan, English & Spanish
     src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"
   />
 </a>
-
-<a href="https://gitlab.com/ericmp33">
-  <img
-    align="left"
-    alt="GitLab"
-    title="GitLab"
-    width="36px"
-    src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
-  />
-</a>
