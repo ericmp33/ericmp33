@@ -1,13 +1,13 @@
-## Hello World!👋
+## Hello World! 👋
 
 ---
 
--  **Working as:** Junior Web Dev👨‍💻
--  **Contact:** contactwEric@gmail.com📮
+-  **Working as:** Junior Web Dev 👨‍💻
+-  **Contact:** contactwEric@gmail.com 📮
 
 ---
 
-### Tech Stack🛠
+### Tech Stack 🛠
 
 <a href="#">
   <img
@@ -123,19 +123,19 @@
 
 ---
 
-### A personal project🚀
+### A personal project 🚀
 
 [![La Brisca CLI](https://github-readme-stats.vercel.app/api/pin/?username=ericmp33&repo=la-brisca-cli&theme=nord)](https://github.com/ericmp33/la-brisca-cli)
 
 ---
 
-### I speak...🌎
+### I speak... 🌎
 
 Catalan, English & Spanish
 
 ---
 
-### I'm also on🌐
+### I'm also on 🌐
 
 <a href="https://stackoverflow.com/users/14569750/ericmp">
   <img
