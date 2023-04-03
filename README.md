@@ -22,6 +22,16 @@
 <a href="#">
   <img
     align="left"
+    alt="Livewire"
+    title="Livewire"
+    width="36px"
+    src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4"
+  />
+</a>
+
+<a href="#">
+  <img
+    align="left"
     alt="InertiaJS"
     title="InertiaJS"
     width="36px"
