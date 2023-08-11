@@ -2,7 +2,7 @@
 
 ---
 
--  **Working as:** Junior Web Dev 👨‍💻
+-  **Working as:** Junior Laravel Developer - Tall stack 👨‍💻
 -  **Contact:** contactwEric@gmail.com 📮
 
 ---
