@@ -2,7 +2,7 @@
 
 ---
 
--  **Working as:** Junior Laravel Developer - TALL stack 👨‍💻
+-  **Working as:** Laravel Developer - <a href="https://tallstack.dev/">TALL stack 👨‍💻</a>
 -  **Contact:** contactwEric@gmail.com 📮
 
 ---
