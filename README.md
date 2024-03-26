@@ -1,7 +1,5 @@
 # 👋 Hello World, 👨‍💻 I'm Eric!
 
----
-
 - 🎯 A passionate **Laravel** Full-Stack Artisan with 2 years of experience
 - ✅ Who is daily crafting **Success** using **TailwindCSS**, **Alpine.js**, **Laravel** & **Livewire** ➡️ The **TALL Stack** ➕ **FilamentPHP**
 
@@ -76,5 +74,3 @@ Catalan, English & Spanish
 ### 📮 Ping me at... 
 
 contactwEric@gmail.com
-
----
