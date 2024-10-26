@@ -1,6 +1,6 @@
 # 👋 Hello World, 👨‍💻 I'm Eric!
 
-- 🎯 A passionate **Laravel** Full-Stack Artisan with 2 years of experience
+- 🎯 Passionate **Laravel** Full-Stack Artisan with 3 years of experience
 - ✅ Who is daily crafting **Success** using **TailwindCSS**, **Alpine.js**, **Laravel** & **Livewire** ➡️ The **TALL Stack** ➕ **FilamentPHP**
 
 <a href="https://tailwindcss.com/">
@@ -43,6 +43,16 @@
   />
 </a>
 
+<a href="https://filamentphp.com/">
+  <img
+    align="left"
+    alt="FilamentPHP"
+    title="FilamentPHP"
+    width="42px"
+    src="https://github.com/user-attachments/assets/6b913903-f071-4b7f-a48e-675490649d0c"
+  />
+</a>
+
 <br>
 <br>
 
@@ -61,7 +71,7 @@ Catalan, English & Spanish
     align="left"
     alt="StackOverflow"
     title="StackOverflow"
-    width="45px"
+    width="35px"
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stackoverflow/stackoverflow-original.svg"
   />
 </a>
