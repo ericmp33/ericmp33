@@ -12,7 +12,7 @@ Core:
 <a href="https://alpinejs.dev/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="28"/></a>
 <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="28"/></a>
 
-Technologies:
+Tech Stack:
 
 <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" alt="PHP" width="28"/></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" width="28"/></a>
