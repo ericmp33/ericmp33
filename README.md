@@ -1,6 +1,6 @@
 ### 👋 Hey, it's Eric
 
-🚀 Mid Full-Stack Laravel Developer  
+🚀 Full-Stack Laravel Developer  
 
 ---
 
