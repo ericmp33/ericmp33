@@ -30,7 +30,6 @@ Tech Stack:
 <a href="https://www.warp.dev/"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F84b9d8fe-3492-44d3-90d3-26d1b69b6d56&w=256&q=75" alt="Warp" width="28"/></a>
 <a href="https://www.nginx.com/"><img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="28"/></a>
 <a href="https://www.hetzner.com/"><img src="https://avatars.githubusercontent.com/u/30047064?s=200&v=4" alt="Hetzner" width="28"/></a>
-<a href="https://aws.amazon.com/s3/"><img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" alt="AWS S3" width="28"/></a>
 <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" alt="Java" width="28"/></a>
 <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="28"/></a>
 <a href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" alt="Postman" width="28"/></a>
