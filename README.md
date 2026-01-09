@@ -12,7 +12,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" alt="CSS3" width="28"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="28"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="28"/></a>
-<br>
 <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" width="28"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="VSCode" width="28"/></a>
 <a href="https://www.jetbrains.com/phpstorm/"><img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="PhpStorm" width="28"/></a>
