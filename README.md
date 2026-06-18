@@ -23,6 +23,4 @@
 <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="28"/></a>
 <a href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" alt="Postman" width="28"/></a>
 <a href="https://www.cloudflare.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="Cloudflare" width="28"/></a>
-<a href="https://bitbucket.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="28"/></a>
 <a href="https://www.sourcetreeapp.com/"><img src="https://images.icon-icons.com/3053/PNG/512/sourcetree_macos_bigsur_icon_189711.png" alt="Sourcetree" width="28"/></a>
-<a href="https://github.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="28"/></a>
